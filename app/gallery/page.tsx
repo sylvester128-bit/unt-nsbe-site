@@ -7,7 +7,7 @@ export default function GalleryPage() {
       href: "/gallery/2025-2026",
       description:
         "Relive the events, conferences, workshops, and memories from the 2025–2026 academic year.",
-      cover: "/nsbe-group-photo.png",
+      cover: "/OLDMONEY.jpg",
       status: "View Gallery",
     },
     {
