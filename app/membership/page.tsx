@@ -175,7 +175,7 @@ export default function MembershipPage() {
             {/* PRICE */}
 
             <div className="text-3xl font-bold mb-6">
-              $35
+              $30
               <span className="text-white/40 text-base font-normal">
                 {" "} / Semester
               </span>
@@ -241,7 +241,7 @@ export default function MembershipPage() {
             {/* PRICE */}
 
             <div className="text-3xl font-bold mb-6">
-              $15
+              $20
               <span className="text-white/40 text-base font-normal">
                 {" "} / Year
               </span>
